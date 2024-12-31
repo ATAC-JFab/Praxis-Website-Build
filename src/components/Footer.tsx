@@ -1,7 +1,7 @@
 import React from 'react';
 import { Mail, Phone, MapPin, Facebook, Twitter, Instagram, Linkedin } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import praxisLogo from '../assets/images/Praxis_Logo.png';
+import praxisLogo from '../assets/images/Praxis_Logo.webp';
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

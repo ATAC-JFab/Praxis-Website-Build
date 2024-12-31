@@ -39,7 +39,7 @@ const Programs = () => {
   return (
     <Section
       pattern={"dots" as Pattern}
-      backgroundImage="/src/assets/images/Red Gradient 4.jpg"
+      backgroundImage="/src/assets/images/Red-Gradient-4.webp"
       title="Our Programs"
       subtitle="Comprehensive solutions for systemic change"
     >

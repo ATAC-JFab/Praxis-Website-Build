@@ -2,7 +2,7 @@ import React from 'react';
 import johnImage from '../assets/images/John.webp';
 import alexImage from '../assets/images/J_Alex.webp';
 import jessicaImage from '../assets/images/Jessica.webp';
-import sherriImage from '../assets/images/Sherri.png';
+import sherriImage from '../assets/images/Sherri.webp';
 import mindiImage from '../assets/images/Mindi.webp';
 
 const TeamSection = () => {
@@ -12,18 +12,18 @@ const TeamSection = () => {
       role: "Executive Director & Co-founder",
       bio: "Formerly incarcerated for 15 years in the Arizona Department of Corrections, John's experience across 14 different units and 9 complexes, including private facilities in Indiana and Oklahoma, drives his passion for reform.",
       image: johnImage
+    },    
+    {
+      name: "Jessica Johnson",
+      role: "Legislative Director & Co-founder",
+      bio: "With eight years of incarceration experience at the Perryville complex, Jessica channels her understanding into effective legislative strategies and reform.",
+      image: jessicaImage
     },
     {
       name: "J Alexandria Hunt-Garcia",
       role: "Policy Director & Co-founder",
       bio: "Drawing from five years of personal experience at the Perryville complex in Goodyear, AZ, Alexandria brings vital insights to policy reform and advocacy initiatives.",
       image: alexImage
-    },
-    {
-      name: "Jessica Johnson",
-      role: "Legislative Director & Co-founder",
-      bio: "With eight years of incarceration experience at the Perryville complex, Jessica channels her understanding into effective legislative strategies and reform.",
-      image: jessicaImage
     },
     {
       name: "Sherri Scates",

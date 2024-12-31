@@ -9,7 +9,7 @@ import {
   Menu,
   X
 } from 'lucide-react';
-import praxisLogo from '../assets/images/Praxis_Logo_Transparent.png';
+import praxisLogo from '../assets/images/Praxis_Logo_Transparent.webp';
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
